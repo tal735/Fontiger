@@ -2,5 +2,8 @@
   "name": "Fontiger",
   "id": "938165757293200988",
   "api": "1.0.0",
-  "main": "code.js"
+  "main": "code.js",
+  "editorType": [
+    "figma"
+   ]
 }
